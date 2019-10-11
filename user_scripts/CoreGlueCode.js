@@ -110,7 +110,7 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "zelda_ii":"Zelda II: The Adventure of Link"
+    "zelda_ii":"Zelda II: The Adventure of Link",
 };
 var IodineGUI = {
     Iodine:null,
