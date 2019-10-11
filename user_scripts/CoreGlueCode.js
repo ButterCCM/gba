@@ -24,6 +24,7 @@ var games = {
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "dbzlegacyofgokuII": "Dragon Ball Z Legacy of Goku II",
     "drilldozer":"Drill Dozer",
+    "drmariopuzzleleauge":"Dr Mario & Puzzle Leauge",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
     "ff1and2":"Final Fantasy 1 & 2 Advance",
