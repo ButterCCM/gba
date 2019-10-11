@@ -23,6 +23,8 @@ var games = {
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "dbzlegacyofgokuII":"Dragon Ball Z Legacy of Goku II",
+    "doom":"Doom",
+    "doom2":"Doom 2",
     "drilldozer":"Drill Dozer",
     "drmariopuzzleleauge":"Dr Mario & Puzzle Leauge",
     "earthwormjim":"Earthworm Jim",
