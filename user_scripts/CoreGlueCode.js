@@ -21,6 +21,7 @@ var games = {
     "croket3":"Croket! 3 - Granu Oukoku no Nazo",
     "croket4":"Croket! 4 - Bank no Mori no Mamorigami",
     "digimon_racing":"Digimon Racing",
+    "db_adav":"Dragon Ball Advanced Adventure",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "dbzlegacyofgokuII":"Dragon Ball Z Legacy of Goku II",
     "doom":"Doom",
