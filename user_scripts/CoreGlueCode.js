@@ -27,7 +27,6 @@ var games = {
     "doom":"Doom",
     "doom2":"Doom 2",
     "doom2pc":"Doom 2 PC Hack",
-    "doompc":"Doom PC Hack",
     "drilldozer":"Drill Dozer",
     "drmariopuzzleleauge":"Dr Mario & Puzzle Leauge",
     "earthwormjim":"Earthworm Jim",
