@@ -23,7 +23,6 @@ var games = {
     "digimon_racing":"Digimon Racing",
     "db_adav":"Dragon Ball Advanced Adventure",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
-    "dbzlegacyofgokuII":"Dragon Ball Z Legacy of Goku II",
     "doom":"Doom",
     "doom2":"Doom 2",
     "doom2pc":"Doom 2 PC Hack",
@@ -115,7 +114,6 @@ var games = {
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
     "zelda_minish":"The Legend of Zelda: The Minish Cap",
-    "zelda_ii":"Zelda II: The Adventure of Link",
 };
 var IodineGUI = {
     Iodine:null,
